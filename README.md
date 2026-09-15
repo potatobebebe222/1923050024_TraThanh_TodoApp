@@ -10,7 +10,7 @@ Nộp bài Assignment 01 - Todo App
 
 ---
 
-## 🚀 Giới Thiệu Đồ Án
+## 🚀 Giới Thiệu Ứng Dụng
 Ứng dụng **Todo App** được phát triển trên nền tảng **React Native (Expo SDK 57)** theo đầy đủ các tiêu chuẩn và yêu cầu của **Assignment 01**.
 
 ### 🎨 Yêu Cầu Tuỳ Chọn Đã Triển Khai (Custom Requirements)
