@@ -1,5 +1,6 @@
 # 1923050024_TraThanh_TodoApp
 Nộp bài Assignment 01 - Todo App
+
 # Assignment 01 - Todo App (Lập Trình Mobile)
 
 ## 📌 Thông Tin Sinh Viên
